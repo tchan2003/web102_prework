@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/eZ5w9bZ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src'https://gyazo.com/7d7a9499e0411057bbe52dd47a8cd247' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gyazo  
